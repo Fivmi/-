@@ -22,7 +22,7 @@ import order.Order;
 
 public class bookTickets
 {
-	JFrame frame = new JFrame("航班信息");
+	JFrame frame = new JFrame("所有航班信息");
 	JPanel panel = new JPanel();
 	JPanel downpanel = new JPanel();
 	ResultSet rs;
